@@ -10,7 +10,7 @@ Integrate or build upon it for free in your personal or commercial projects. Don
 
 ## Credits
 
-- [Anime.js](http://anime-js.com/) by Julian Garnier
+- [Anime.js](http://anime-js.com/)
 
 
 "# anime-multi-layer-slide" 
